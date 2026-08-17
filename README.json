@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T08:44:51Z",
+            "last_commit": "2026-08-17T10:58:29Z",
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 26440
+            "stars": 26523
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-15T08:40:52Z",
             "owner": "SamurAIGPT",
             "repo": "Generative-Media-Skills",
-            "stars": 4068
+            "stars": 4081
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-02T09:36:35Z",
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
-            "stars": 1939
+            "stars": 1943
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-08-08T14:08:38Z",
             "owner": "Anil-matcha",
             "repo": "Flux-3-Dev-API",
-            "stars": 181
+            "stars": 182
           }
         },
         {
@@ -184,7 +184,7 @@
             "last_commit": "2026-03-02T07:00:53Z",
             "owner": "AUTOMATIC1111",
             "repo": "stable-diffusion-webui",
-            "stars": 164518
+            "stars": 164528
           }
         },
         {
@@ -195,10 +195,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T23:34:57Z",
+            "last_commit": "2026-08-17T10:33:01Z",
             "owner": "Comfy-Org",
             "repo": "ComfyUI",
-            "stars": 127868
+            "stars": 128032
           }
         },
         {
@@ -212,7 +212,7 @@
             "last_commit": "2025-12-01T19:17:07Z",
             "owner": "lllyasviel",
             "repo": "Fooocus",
-            "stars": 52294
+            "stars": 52333
           }
         },
         {
@@ -223,10 +223,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T21:48:31Z",
+            "last_commit": "2026-08-17T02:46:18Z",
             "owner": "invoke-ai",
             "repo": "InvokeAI",
-            "stars": 27900
+            "stars": 27905
           }
         }
       ],
@@ -239,7 +239,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T11:11:22.061Z",
+    "last_updated": "2026-08-17T11:16:43.108Z",
     "original_repository": "Anil-matcha/awesome-ai-image-models",
     "original_repository_sha": "1b0bdb3ab29c60dc12409959a4e4feda3bea10ce",
     "enhanced_repository": "enhansome/enhansome-ai-image-models",
