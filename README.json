@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T10:58:29Z",
+            "last_commit": "2026-08-18T04:14:49Z",
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 26523
+            "stars": 26603
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-15T08:40:52Z",
             "owner": "SamurAIGPT",
             "repo": "Generative-Media-Skills",
-            "stars": 4081
+            "stars": 4086
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-02T09:36:35Z",
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
-            "stars": 1943
+            "stars": 1948
           }
         },
         {
@@ -184,7 +184,7 @@
             "last_commit": "2026-03-02T07:00:53Z",
             "owner": "AUTOMATIC1111",
             "repo": "stable-diffusion-webui",
-            "stars": 164528
+            "stars": 164555
           }
         },
         {
@@ -195,10 +195,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T10:33:01Z",
+            "last_commit": "2026-08-18T11:08:13Z",
             "owner": "Comfy-Org",
             "repo": "ComfyUI",
-            "stars": 128032
+            "stars": 128226
           }
         },
         {
@@ -212,7 +212,7 @@
             "last_commit": "2025-12-01T19:17:07Z",
             "owner": "lllyasviel",
             "repo": "Fooocus",
-            "stars": 52333
+            "stars": 52377
           }
         },
         {
@@ -226,7 +226,7 @@
             "last_commit": "2026-08-17T02:46:18Z",
             "owner": "invoke-ai",
             "repo": "InvokeAI",
-            "stars": 27905
+            "stars": 27909
           }
         }
       ],
@@ -239,7 +239,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T11:16:43.108Z",
+    "last_updated": "2026-08-18T11:16:07.307Z",
     "original_repository": "Anil-matcha/awesome-ai-image-models",
     "original_repository_sha": "1b0bdb3ab29c60dc12409959a4e4feda3bea10ce",
     "enhanced_repository": "enhansome/enhansome-ai-image-models",
