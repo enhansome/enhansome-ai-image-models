@@ -12,10 +12,10 @@
             "archived": false,
             "id": 638513786,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T07:43:52Z",
+            "last_commit": "2026-08-19T11:29:40Z",
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 26664
+            "stars": 26666
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-03-02T07:00:53Z",
             "owner": "AUTOMATIC1111",
             "repo": "stable-diffusion-webui",
-            "stars": 164577
+            "stars": 164578
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-08-19T06:59:54Z",
             "owner": "Comfy-Org",
             "repo": "ComfyUI",
-            "stars": 128396
+            "stars": 128404
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2025-12-01T19:17:07Z",
             "owner": "lllyasviel",
             "repo": "Fooocus",
-            "stars": 52408
+            "stars": 52409
           }
         },
         {
@@ -239,8 +239,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T11:16:01.219Z",
+    "last_updated": "2026-08-19T12:15:39.545Z",
     "original_repository": "Anil-matcha/awesome-ai-image-models",
+    "original_repository_id": 807671842,
     "original_repository_sha": "1b0bdb3ab29c60dc12409959a4e4feda3bea10ce",
     "enhanced_repository": "enhansome/enhansome-ai-image-models",
     "enhanced_repository_description": null,

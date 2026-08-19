@@ -8,7 +8,7 @@ Unlike other lists that just dump links, this one answers the question developer
 
 ## Related Projects
 
-* [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 26,664 | 🐛 28 | 🌐 JavaScript | 📅 2026-08-19 — curated hub of open generative-media tools and pipelines
+* [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 26,666 | 🐛 28 | 🌐 JavaScript | 📅 2026-08-19 — curated hub of open generative-media tools and pipelines
 * [Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) ⭐ 4,091 | 🐛 4 | 🌐 Shell | 📅 2026-08-15 — runtime for generative-media prompts
 * [ai-creator-academy](https://github.com/Anil-matcha/ai-creator-academy) ⭐ 1,954 | 🐛 0 | 📅 2026-08-02 — free curriculum teaching creators how to monetize the models compared in this list
 * [awesome-ai-video-models](https://github.com/Anil-matcha/awesome-ai-video-models) ⭐ 185 | 🐛 3 | 📅 2026-08-05 — sister list: compare AI **video** models by API, price & speed
@@ -72,9 +72,9 @@ Modify existing images rather than generate from scratch:
 
 For local generation, training, and workflows:
 
-* **[AUTOMATIC1111 WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ⭐ 164,577 | 🐛 2,501 | 🌐 Python | 📅 2026-03-02** — the classic all-in-one UI
-* **[ComfyUI](https://github.com/comfyanonymous/ComfyUI) ⭐ 128,396 | 🐛 4,644 | 🌐 Python | 📅 2026-08-19** — node-based, most powerful for custom pipelines
-* **[Fooocus](https://github.com/lllyasviel/Fooocus) ⭐ 52,408 | 🐛 313 | 🌐 Python | 📅 2025-12-01** — simplest "just works" UI
+* **[AUTOMATIC1111 WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ⭐ 164,578 | 🐛 2,501 | 🌐 Python | 📅 2026-03-02** — the classic all-in-one UI
+* **[ComfyUI](https://github.com/comfyanonymous/ComfyUI) ⭐ 128,404 | 🐛 4,644 | 🌐 Python | 📅 2026-08-19** — node-based, most powerful for custom pipelines
+* **[Fooocus](https://github.com/lllyasviel/Fooocus) ⭐ 52,409 | 🐛 313 | 🌐 Python | 📅 2025-12-01** — simplest "just works" UI
 * **[InvokeAI](https://github.com/invoke-ai/InvokeAI) ⭐ 27,913 | 🐛 375 | 🌐 Python | 📅 2026-08-19** — polished pro/creative UI
 * **Training:** kohya\_ss, OneTrainer, SimpleTuner (LoRA / fine-tuning)
 
@@ -119,7 +119,7 @@ PRs welcome. When adding a model, keep the table columns filled — **a row with
 
 ***
 
-*Maintained alongside [awesome-ai-video-models](https://github.com/Anil-matcha/awesome-ai-video-models) ⭐ 185 | 🐛 3 | 📅 2026-08-05 and [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 26,664 | 🐛 28 | 🌐 JavaScript | 📅 2026-08-19. Found it useful? ⭐ the repo.*
+*Maintained alongside [awesome-ai-video-models](https://github.com/Anil-matcha/awesome-ai-video-models) ⭐ 185 | 🐛 3 | 📅 2026-08-05 and [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 26,666 | 🐛 28 | 🌐 JavaScript | 📅 2026-08-19. Found it useful? ⭐ the repo.*
 
 ***
 
