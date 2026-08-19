@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 638513786,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T04:14:49Z",
+            "last_commit": "2026-08-19T07:43:52Z",
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 26603
+            "stars": 26664
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 645381450,
             "language": "Shell",
             "last_commit": "2026-08-15T08:40:52Z",
             "owner": "SamurAIGPT",
             "repo": "Generative-Media-Skills",
-            "stars": 4086
+            "stars": 4091
           }
         },
         {
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 636553615,
             "language": null,
             "last_commit": "2026-08-02T09:36:35Z",
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
-            "stars": 1948
+            "stars": 1954
           }
         },
         {
@@ -52,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 662620443,
             "language": null,
             "last_commit": "2026-08-05T20:17:52Z",
             "owner": "Anil-matcha",
             "repo": "awesome-ai-video-models",
-            "stars": 184
+            "stars": 185
           }
         },
         {
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 819971354,
             "language": "Python",
             "last_commit": "2026-08-08T14:08:38Z",
             "owner": "Anil-matcha",
@@ -80,11 +85,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 798330044,
             "language": null,
             "last_commit": "2026-07-26T07:52:37Z",
             "owner": "Anil-matcha",
             "repo": "awesome-flux-3-api-prompts",
-            "stars": 144
+            "stars": 143
           }
         },
         {
@@ -94,11 +100,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1075146799,
             "language": "JavaScript",
             "last_commit": "2026-07-27T10:26:18Z",
             "owner": "SamurAIGPT",
             "repo": "nano-banana-generator",
-            "stars": 34
+            "stars": 35
           }
         },
         {
@@ -108,11 +115,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1211525105,
             "language": "JavaScript",
             "last_commit": "2026-08-02T09:37:20Z",
             "owner": "SamurAIGPT",
             "repo": "ai-headshot-generator",
-            "stars": 34
+            "stars": 35
           }
         },
         {
@@ -122,11 +130,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1304741824,
             "language": null,
             "last_commit": "2026-08-08T14:08:38Z",
             "owner": "Anil-matcha",
             "repo": "Awesome-GPT-Image-2-API-Prompts",
-            "stars": 15
+            "stars": 16
           }
         },
         {
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1327812292,
             "language": "Python",
             "last_commit": "2026-08-15T09:55:45Z",
             "owner": "Anil-matcha",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1324364250,
             "language": null,
             "last_commit": "2026-08-05T20:13:30Z",
             "owner": "Anil-matcha",
@@ -161,16 +172,6 @@
       "title": "Related Projects"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Commercial models (closed, API-only)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Open-source models (self-host or API)"
-    },
-    {
       "description": "For local generation, training, and workflows:",
       "items": [
         {
@@ -180,11 +181,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 527591471,
             "language": "Python",
             "last_commit": "2026-03-02T07:00:53Z",
             "owner": "AUTOMATIC1111",
             "repo": "stable-diffusion-webui",
-            "stars": 164555
+            "stars": 164577
           }
         },
         {
@@ -194,11 +196,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 589831718,
             "language": "Python",
-            "last_commit": "2026-08-18T11:08:13Z",
+            "last_commit": "2026-08-19T06:59:54Z",
             "owner": "Comfy-Org",
             "repo": "ComfyUI",
-            "stars": 128226
+            "stars": 128396
           }
         },
         {
@@ -208,11 +211,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 676676006,
             "language": "Python",
             "last_commit": "2025-12-01T19:17:07Z",
             "owner": "lllyasviel",
             "repo": "Fooocus",
-            "stars": 52377
+            "stars": 52408
           }
         },
         {
@@ -222,24 +226,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 525592995,
             "language": "Python",
-            "last_commit": "2026-08-17T02:46:18Z",
+            "last_commit": "2026-08-19T01:13:05Z",
             "owner": "invoke-ai",
             "repo": "InvokeAI",
-            "stars": 27909
+            "stars": 27913
           }
         }
       ],
       "title": "Frameworks & UIs"
-    },
-    {
-      "description": "PRs welcome. When adding a model, keep the table columns filled — a row without provider + price isn't useful. New models go in the correct table (commercial vs open-source) and stay sorted by relevance.\nMaintained alongside awesome-ai-video-models and Open-Generative-AI. Found it useful? ⭐ the repo.",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T11:16:07.307Z",
+    "last_updated": "2026-08-19T11:16:01.219Z",
     "original_repository": "Anil-matcha/awesome-ai-image-models",
     "original_repository_sha": "1b0bdb3ab29c60dc12409959a4e4feda3bea10ce",
     "enhanced_repository": "enhansome/enhansome-ai-image-models",
