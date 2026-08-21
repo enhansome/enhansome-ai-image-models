@@ -12,10 +12,10 @@
             "archived": false,
             "id": 638513786,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T20:21:01Z",
+            "last_commit": "2026-08-20T21:47:52Z",
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 26731
+            "stars": 26765
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 645381450,
             "language": "Shell",
-            "last_commit": "2026-08-19T20:16:23Z",
+            "last_commit": "2026-08-20T12:57:12Z",
             "owner": "SamurAIGPT",
             "repo": "Generative-Media-Skills",
-            "stars": 4098
+            "stars": 4105
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 636553615,
             "language": null,
-            "last_commit": "2026-08-02T09:36:35Z",
+            "last_commit": "2026-08-21T10:44:13Z",
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
-            "stars": 1956
+            "stars": 1957
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 662620443,
             "language": null,
-            "last_commit": "2026-08-05T20:17:52Z",
+            "last_commit": "2026-08-20T22:09:14Z",
             "owner": "Anil-matcha",
             "repo": "awesome-ai-video-models",
-            "stars": 185
+            "stars": 186
           }
         },
         {
@@ -182,6 +182,36 @@
             "repo": "midjourney-api",
             "stars": 1
           }
+        },
+        {
+          "node_type": "item",
+          "title": "LoRA-Trainer-API",
+          "description": "compare Muapi LoRA training endpoints for custom image adapters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1340699130,
+            "language": null,
+            "last_commit": "2026-08-20T12:54:10Z",
+            "owner": "Anil-matcha",
+            "repo": "LoRA-Trainer-API",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Image-Enhancement-API",
+          "description": "compare Muapi image upscaling and background-removal APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1340699136,
+            "language": null,
+            "last_commit": "2026-08-20T12:54:09Z",
+            "owner": "Anil-matcha",
+            "repo": "Image-Enhancement-API",
+            "stars": 1
+          }
         }
       ],
       "title": "Related Projects"
@@ -201,7 +231,7 @@
             "last_commit": "2026-03-02T07:00:53Z",
             "owner": "AUTOMATIC1111",
             "repo": "stable-diffusion-webui",
-            "stars": 164595
+            "stars": 164599
           }
         },
         {
@@ -213,10 +243,10 @@
             "archived": false,
             "id": 589831718,
             "language": "Python",
-            "last_commit": "2026-08-20T10:46:16Z",
+            "last_commit": "2026-08-21T10:02:54Z",
             "owner": "Comfy-Org",
             "repo": "ComfyUI",
-            "stars": 128566
+            "stars": 128761
           }
         },
         {
@@ -231,7 +261,7 @@
             "last_commit": "2025-12-01T19:17:07Z",
             "owner": "lllyasviel",
             "repo": "Fooocus",
-            "stars": 52436
+            "stars": 52458
           }
         },
         {
@@ -243,10 +273,10 @@
             "archived": false,
             "id": 525592995,
             "language": "Python",
-            "last_commit": "2026-08-19T01:13:05Z",
+            "last_commit": "2026-08-20T15:35:20Z",
             "owner": "invoke-ai",
             "repo": "InvokeAI",
-            "stars": 27920
+            "stars": 27926
           }
         }
       ],
@@ -254,10 +284,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T11:17:34.370Z",
+    "last_updated": "2026-08-21T11:16:59.804Z",
     "original_repository": "Anil-matcha/awesome-ai-image-models",
     "original_repository_id": 807671842,
-    "original_repository_sha": "d93b875e0bbadbe9c8cb28d0da9bf76630dd1d6c",
+    "original_repository_sha": "bfdf935dd38bb4eb1d220fb0ba62c9b9d0f9bfec",
     "enhanced_repository": "enhansome/enhansome-ai-image-models",
     "enhanced_repository_description": null,
     "title": "Awesome AI Image Models with stars"
