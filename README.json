@@ -15,7 +15,7 @@
             "last_commit": "2026-08-20T21:47:52Z",
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 26765
+            "stars": 26813
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-20T12:57:12Z",
             "owner": "SamurAIGPT",
             "repo": "Generative-Media-Skills",
-            "stars": 4105
+            "stars": 4117
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-21T10:44:13Z",
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
-            "stars": 1957
+            "stars": 1959
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2026-03-02T07:00:53Z",
             "owner": "AUTOMATIC1111",
             "repo": "stable-diffusion-webui",
-            "stars": 164599
+            "stars": 164609
           }
         },
         {
@@ -243,10 +243,10 @@
             "archived": false,
             "id": 589831718,
             "language": "Python",
-            "last_commit": "2026-08-21T10:02:54Z",
+            "last_commit": "2026-08-22T09:36:30Z",
             "owner": "Comfy-Org",
             "repo": "ComfyUI",
-            "stars": 128761
+            "stars": 128918
           }
         },
         {
@@ -261,7 +261,7 @@
             "last_commit": "2025-12-01T19:17:07Z",
             "owner": "lllyasviel",
             "repo": "Fooocus",
-            "stars": 52458
+            "stars": 52471
           }
         },
         {
@@ -276,7 +276,7 @@
             "last_commit": "2026-08-20T15:35:20Z",
             "owner": "invoke-ai",
             "repo": "InvokeAI",
-            "stars": 27926
+            "stars": 27925
           }
         }
       ],
@@ -284,7 +284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T11:16:59.804Z",
+    "last_updated": "2026-08-22T11:11:23.452Z",
     "original_repository": "Anil-matcha/awesome-ai-image-models",
     "original_repository_id": 807671842,
     "original_repository_sha": "bfdf935dd38bb4eb1d220fb0ba62c9b9d0f9bfec",
