@@ -12,10 +12,10 @@
             "archived": false,
             "id": 638513786,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T21:47:52Z",
+            "last_commit": "2026-08-23T09:47:34Z",
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 26813
+            "stars": 26873
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-20T12:57:12Z",
             "owner": "SamurAIGPT",
             "repo": "Generative-Media-Skills",
-            "stars": 4117
+            "stars": 4126
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-21T10:44:13Z",
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
-            "stars": 1959
+            "stars": 1965
           }
         },
         {
@@ -95,21 +95,6 @@
         },
         {
           "node_type": "item",
-          "title": "nano-banana-generator",
-          "description": "generate with Google Nano Banana",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1075146799,
-            "language": "JavaScript",
-            "last_commit": "2026-07-27T10:26:18Z",
-            "owner": "SamurAIGPT",
-            "repo": "nano-banana-generator",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
           "title": "ai-headshot-generator",
           "description": "AI headshots pipeline",
           "children": [],
@@ -120,6 +105,21 @@
             "last_commit": "2026-08-02T09:37:20Z",
             "owner": "SamurAIGPT",
             "repo": "ai-headshot-generator",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nano-banana-generator",
+          "description": "generate with Google Nano Banana",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1075146799,
+            "language": "JavaScript",
+            "last_commit": "2026-07-27T10:26:18Z",
+            "owner": "SamurAIGPT",
+            "repo": "nano-banana-generator",
             "stars": 35
           }
         },
@@ -151,6 +151,21 @@
             "owner": "Anil-matcha",
             "repo": "Grok-Imagine-Image-2-API",
             "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Image-Enhancement-API",
+          "description": "compare Muapi image upscaling and background-removal APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1340699136,
+            "language": null,
+            "last_commit": "2026-08-20T12:54:09Z",
+            "owner": "Anil-matcha",
+            "repo": "Image-Enhancement-API",
+            "stars": 2
           }
         },
         {
@@ -197,21 +212,6 @@
             "repo": "LoRA-Trainer-API",
             "stars": 1
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Image-Enhancement-API",
-          "description": "compare Muapi image upscaling and background-removal APIs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1340699136,
-            "language": null,
-            "last_commit": "2026-08-20T12:54:09Z",
-            "owner": "Anil-matcha",
-            "repo": "Image-Enhancement-API",
-            "stars": 1
-          }
         }
       ],
       "title": "Related Projects"
@@ -231,7 +231,7 @@
             "last_commit": "2026-03-02T07:00:53Z",
             "owner": "AUTOMATIC1111",
             "repo": "stable-diffusion-webui",
-            "stars": 164609
+            "stars": 164618
           }
         },
         {
@@ -243,10 +243,10 @@
             "archived": false,
             "id": 589831718,
             "language": "Python",
-            "last_commit": "2026-08-22T09:36:30Z",
+            "last_commit": "2026-08-23T07:50:08Z",
             "owner": "Comfy-Org",
             "repo": "ComfyUI",
-            "stars": 128918
+            "stars": 129097
           }
         },
         {
@@ -261,7 +261,7 @@
             "last_commit": "2025-12-01T19:17:07Z",
             "owner": "lllyasviel",
             "repo": "Fooocus",
-            "stars": 52471
+            "stars": 52493
           }
         },
         {
@@ -273,10 +273,10 @@
             "archived": false,
             "id": 525592995,
             "language": "Python",
-            "last_commit": "2026-08-20T15:35:20Z",
+            "last_commit": "2026-08-22T23:25:08Z",
             "owner": "invoke-ai",
             "repo": "InvokeAI",
-            "stars": 27925
+            "stars": 27932
           }
         }
       ],
@@ -284,7 +284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T11:11:23.452Z",
+    "last_updated": "2026-08-23T11:12:32.113Z",
     "original_repository": "Anil-matcha/awesome-ai-image-models",
     "original_repository_id": 807671842,
     "original_repository_sha": "bfdf935dd38bb4eb1d220fb0ba62c9b9d0f9bfec",
