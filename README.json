@@ -12,10 +12,10 @@
             "archived": false,
             "id": 638513786,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T09:44:32Z",
+            "last_commit": "2026-08-24T12:02:28Z",
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 26996
+            "stars": 27016
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-24T10:52:36Z",
             "owner": "SamurAIGPT",
             "repo": "Generative-Media-Skills",
-            "stars": 4133
+            "stars": 4135
           }
         },
         {
@@ -221,8 +221,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "AUTOMATIC1111 WebUI — the classic all-in-one UI",
-          "description": null,
+          "title": "AUTOMATIC1111 WebUI",
+          "description": "the classic all-in-one UI",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -231,13 +231,13 @@
             "last_commit": "2026-03-02T07:00:53Z",
             "owner": "AUTOMATIC1111",
             "repo": "stable-diffusion-webui",
-            "stars": 164632
+            "stars": 164633
           }
         },
         {
           "node_type": "item",
-          "title": "ComfyUI — node-based, most powerful for custom pipelines",
-          "description": null,
+          "title": "ComfyUI",
+          "description": "node-based, most powerful for custom pipelines",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -246,13 +246,13 @@
             "last_commit": "2026-08-24T10:03:19Z",
             "owner": "Comfy-Org",
             "repo": "ComfyUI",
-            "stars": 129690
+            "stars": 129720
           }
         },
         {
           "node_type": "item",
-          "title": "Fooocus — simplest \"just works\" UI",
-          "description": null,
+          "title": "Fooocus",
+          "description": "simplest \"just works\" UI",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -261,13 +261,13 @@
             "last_commit": "2025-12-01T19:17:07Z",
             "owner": "lllyasviel",
             "repo": "Fooocus",
-            "stars": 52503
+            "stars": 52508
           }
         },
         {
           "node_type": "item",
-          "title": "InvokeAI — polished pro/creative UI",
-          "description": null,
+          "title": "InvokeAI",
+          "description": "polished pro/creative UI",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -276,7 +276,7 @@
             "last_commit": "2026-08-22T23:25:08Z",
             "owner": "invoke-ai",
             "repo": "InvokeAI",
-            "stars": 27957
+            "stars": 27964
           }
         }
       ],
@@ -284,7 +284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:18:21.122Z",
+    "last_updated": "2026-08-24T14:45:03.583Z",
     "original_repository": "Anil-matcha/awesome-ai-image-models",
     "original_repository_id": 807671842,
     "original_repository_sha": "c19f5e1fe3e3dc389a4e8ecf95c5f9fe473ea20d",
