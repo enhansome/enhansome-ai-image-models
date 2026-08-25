@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T12:02:28Z",
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 27016
+            "stars": 27064
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-24T10:52:36Z",
             "owner": "SamurAIGPT",
             "repo": "Generative-Media-Skills",
-            "stars": 4135
+            "stars": 4137
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-21T10:44:13Z",
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
-            "stars": 1969
+            "stars": 1971
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-02T09:37:20Z",
             "owner": "SamurAIGPT",
             "repo": "ai-headshot-generator",
-            "stars": 36
+            "stars": 37
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2026-03-02T07:00:53Z",
             "owner": "AUTOMATIC1111",
             "repo": "stable-diffusion-webui",
-            "stars": 164633
+            "stars": 164644
           }
         },
         {
@@ -243,10 +243,10 @@
             "archived": false,
             "id": 589831718,
             "language": "Python",
-            "last_commit": "2026-08-24T10:03:19Z",
+            "last_commit": "2026-08-25T06:25:27Z",
             "owner": "Comfy-Org",
             "repo": "ComfyUI",
-            "stars": 129720
+            "stars": 129819
           }
         },
         {
@@ -261,7 +261,7 @@
             "last_commit": "2025-12-01T19:17:07Z",
             "owner": "lllyasviel",
             "repo": "Fooocus",
-            "stars": 52508
+            "stars": 52518
           }
         },
         {
@@ -273,10 +273,10 @@
             "archived": false,
             "id": 525592995,
             "language": "Python",
-            "last_commit": "2026-08-22T23:25:08Z",
+            "last_commit": "2026-08-25T04:53:06Z",
             "owner": "invoke-ai",
             "repo": "InvokeAI",
-            "stars": 27964
+            "stars": 27979
           }
         }
       ],
@@ -284,7 +284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:45:03.583Z",
+    "last_updated": "2026-08-25T06:37:46.599Z",
     "original_repository": "Anil-matcha/awesome-ai-image-models",
     "original_repository_id": 807671842,
     "original_repository_sha": "c19f5e1fe3e3dc389a4e8ecf95c5f9fe473ea20d",
