@@ -18,9 +18,9 @@ Unlike other lists that just dump links, this one answers the question developer
 
 ## Related Projects
 
-* [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 27,319 | 🐛 31 | 🌐 JavaScript | 📅 2026-08-27 — curated hub of open generative-media tools and pipelines
-* [Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) ⭐ 4,185 | 🐛 3 | 🌐 Shell | 📅 2026-08-27 — runtime for generative-media prompts
-* [ai-creator-academy](https://github.com/Anil-matcha/ai-creator-academy) ⭐ 1,980 | 🐛 0 | 📅 2026-08-21 — free curriculum teaching creators how to monetize the models compared in this list
+* [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 27,342 | 🐛 31 | 🌐 JavaScript | 📅 2026-08-29 — curated hub of open generative-media tools and pipelines
+* [Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) ⭐ 4,186 | 🐛 3 | 🌐 Shell | 📅 2026-08-27 — runtime for generative-media prompts
+* [ai-creator-academy](https://github.com/Anil-matcha/ai-creator-academy) ⭐ 1,981 | 🐛 0 | 📅 2026-08-21 — free curriculum teaching creators how to monetize the models compared in this list
 * [awesome-ai-video-models](https://github.com/Anil-matcha/awesome-ai-video-models) ⭐ 188 | 🐛 4 | 📅 2026-08-27 — sister list: compare AI **video** models by API, price & speed
 * [Flux-3-Dev-API](https://github.com/Anil-matcha/Flux-3-Dev-API) ⭐ 182 | 🐛 3 | 🌐 Python | 📅 2026-08-28 — Python wrapper for Black Forest Labs' FLUX 3 (Dev variant) — text-to-image, image-to-image, text-to-video, image-to-video
 * [awesome-flux-3-api-prompts](https://github.com/Anil-matcha/awesome-flux-3-api-prompts) ⭐ 143 | 🐛 2 | 📅 2026-08-20 — FLUX 3 API guide, prompts, and parameters
@@ -127,10 +127,10 @@ Keep the same subject's identity locked across multiple generations, not just a 
 
 For local generation, training, and workflows:
 
-* **[AUTOMATIC1111 WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ⭐ 164,711 | 🐛 2,501 | 🌐 Python | 📅 2026-03-02** — the classic all-in-one UI
-* **[ComfyUI](https://github.com/comfyanonymous/ComfyUI) ⭐ 130,496 | 🐛 4,731 | 🌐 Python | 📅 2026-08-29** — node-based, most powerful for custom pipelines
-* **[Fooocus](https://github.com/lllyasviel/Fooocus) ⭐ 52,596 | 🐛 314 | 🌐 Python | 📅 2025-12-01** — simplest "just works" UI
-* **[InvokeAI](https://github.com/invoke-ai/InvokeAI) ⭐ 28,035 | 🐛 385 | 🌐 Python | 📅 2026-08-29** — polished pro/creative UI
+* **[AUTOMATIC1111 WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ⭐ 164,718 | 🐛 2,501 | 🌐 Python | 📅 2026-03-02** — the classic all-in-one UI
+* **[ComfyUI](https://github.com/comfyanonymous/ComfyUI) ⭐ 130,572 | 🐛 4,738 | 🌐 Python | 📅 2026-08-29** — node-based, most powerful for custom pipelines
+* **[Fooocus](https://github.com/lllyasviel/Fooocus) ⭐ 52,603 | 🐛 314 | 🌐 Python | 📅 2025-12-01** — simplest "just works" UI
+* **[InvokeAI](https://github.com/invoke-ai/InvokeAI) ⭐ 28,037 | 🐛 384 | 🌐 Python | 📅 2026-08-29** — polished pro/creative UI
 * **Training:** kohya\_ss, OneTrainer, SimpleTuner (LoRA / fine-tuning)
 
 ## Upscaling & restoration
@@ -175,7 +175,7 @@ PRs welcome. When adding a model, keep the table columns filled — **a row with
 
 ***
 
-*Maintained alongside [awesome-ai-video-models](https://github.com/Anil-matcha/awesome-ai-video-models) ⭐ 188 | 🐛 4 | 📅 2026-08-27 and [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 27,319 | 🐛 31 | 🌐 JavaScript | 📅 2026-08-27. Found it useful? ⭐ the repo.*
+*Maintained alongside [awesome-ai-video-models](https://github.com/Anil-matcha/awesome-ai-video-models) ⭐ 188 | 🐛 4 | 📅 2026-08-27 and [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 27,342 | 🐛 31 | 🌐 JavaScript | 📅 2026-08-29. Found it useful? ⭐ the repo.*
 
 ***
 
