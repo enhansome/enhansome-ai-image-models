@@ -10,16 +10,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 500+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+            "description": "Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
             "homepage": "https://muapi.ai/open-generative-ai?utm_source=github&utm_medium=about&utm_campaign=open-generative-ai",
             "id": 638513786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-02T05:59:30Z",
+            "last_commit": "2026-09-03T06:21:59Z",
             "open_issues": 32,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 27575,
+            "stars": 27646,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -61,7 +61,7 @@
             "open_issues": 3,
             "owner": "SamurAIGPT",
             "repo": "Generative-Media-Skills",
-            "stars": 4205,
+            "stars": 4211,
             "topics": [
               "agent-skills",
               "agent-tools",
@@ -103,7 +103,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
-            "stars": 1987,
+            "stars": 1991,
             "topics": [
               "ai",
               "ai-agents",
@@ -145,7 +145,7 @@
             "open_issues": 4,
             "owner": "Anil-matcha",
             "repo": "awesome-ai-video-models",
-            "stars": 189,
+            "stars": 190,
             "topics": [
               "ai-video",
               "ai-video-generator",
@@ -351,11 +351,11 @@
             "id": 1304741824,
             "language": null,
             "license": null,
-            "last_commit": "2026-08-08T14:08:38Z",
+            "last_commit": "2026-09-03T03:18:28Z",
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "Awesome-GPT-Image-2-API-Prompts",
-            "stars": 17,
+            "stars": 18,
             "topics": [
               "ai-art",
               "ai-generated-art",
@@ -613,7 +613,7 @@
             "open_issues": 2503,
             "owner": "AUTOMATIC1111",
             "repo": "stable-diffusion-webui",
-            "stars": 164769,
+            "stars": 164784,
             "topics": [
               "ai",
               "ai-art",
@@ -647,11 +647,11 @@
             "id": 589831718,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-02T12:19:22Z",
-            "open_issues": 4781,
+            "last_commit": "2026-09-03T12:15:09Z",
+            "open_issues": 4786,
             "owner": "Comfy-Org",
             "repo": "ComfyUI",
-            "stars": 131171,
+            "stars": 131333,
             "topics": [
               "ai",
               "comfy",
@@ -679,7 +679,7 @@
             "open_issues": 314,
             "owner": "lllyasviel",
             "repo": "Fooocus",
-            "stars": 52684,
+            "stars": 52721,
             "topics": []
           },
           "first_seen": "2026-08-28T21:17:15.048Z"
@@ -697,10 +697,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-01T00:42:16Z",
-            "open_issues": 382,
+            "open_issues": 381,
             "owner": "invoke-ai",
             "repo": "InvokeAI",
-            "stars": 28113,
+            "stars": 28122,
             "topics": [
               "ai-art",
               "artificial-intelligence",
@@ -724,7 +724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T14:48:24.510Z",
+    "last_updated": "2026-09-03T14:48:23.240Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most complete, up-to-date comparison of AI image generation models — which model, via which API, at what price.",
