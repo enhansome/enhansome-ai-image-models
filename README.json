@@ -19,7 +19,7 @@
             "open_issues": 32,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 27708,
+            "stars": 27752,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -61,7 +61,7 @@
             "open_issues": 3,
             "owner": "SamurAIGPT",
             "repo": "Generative-Media-Skills",
-            "stars": 4218,
+            "stars": 4220,
             "topics": [
               "agent-skills",
               "agent-tools",
@@ -103,7 +103,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
-            "stars": 1993,
+            "stars": 1995,
             "topics": [
               "ai",
               "ai-agents",
@@ -271,7 +271,7 @@
             "open_issues": 0,
             "owner": "SamurAIGPT",
             "repo": "ai-headshot-generator",
-            "stars": 37,
+            "stars": 38,
             "topics": [
               "ai-headshot-generator",
               "ai-headshots",
@@ -355,7 +355,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "Awesome-GPT-Image-2-API-Prompts",
-            "stars": 18,
+            "stars": 19,
             "topics": [
               "ai-art",
               "ai-generated-art",
@@ -509,6 +509,48 @@
         },
         {
           "node_type": "item",
+          "title": "LoRA-Trainer-API",
+          "description": "compare Muapi LoRA training endpoints for custom image adapters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Compare Muapi LoRA trainer APIs with runnable examples",
+            "homepage": null,
+            "id": 1340699130,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-08-20T12:54:10Z",
+            "open_issues": 0,
+            "owner": "Anil-matcha",
+            "repo": "LoRA-Trainer-API",
+            "stars": 2,
+            "topics": [
+              "ai",
+              "api",
+              "deep-learning",
+              "fine-tuning",
+              "flux",
+              "flux-lora",
+              "generative-ai",
+              "image-generation",
+              "lora",
+              "lora-trainer",
+              "lora-training",
+              "machine-learning",
+              "model-training",
+              "muapi",
+              "open-source",
+              "python",
+              "qwen-image",
+              "rest-api",
+              "text-to-image",
+              "z-image"
+            ]
+          },
+          "first_seen": "2026-08-28T21:17:15.048Z"
+        },
+        {
+          "node_type": "item",
           "title": "midjourney-api",
           "description": "Python SDK for Midjourney V7, V8, and Niji generation through MuAPI.",
           "children": [],
@@ -548,48 +590,6 @@
             ]
           },
           "first_seen": "2026-08-28T21:17:15.048Z"
-        },
-        {
-          "node_type": "item",
-          "title": "LoRA-Trainer-API",
-          "description": "compare Muapi LoRA training endpoints for custom image adapters.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Compare Muapi LoRA trainer APIs with runnable examples",
-            "homepage": null,
-            "id": 1340699130,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-08-20T12:54:10Z",
-            "open_issues": 0,
-            "owner": "Anil-matcha",
-            "repo": "LoRA-Trainer-API",
-            "stars": 1,
-            "topics": [
-              "ai",
-              "api",
-              "deep-learning",
-              "fine-tuning",
-              "flux",
-              "flux-lora",
-              "generative-ai",
-              "image-generation",
-              "lora",
-              "lora-trainer",
-              "lora-training",
-              "machine-learning",
-              "model-training",
-              "muapi",
-              "open-source",
-              "python",
-              "qwen-image",
-              "rest-api",
-              "text-to-image",
-              "z-image"
-            ]
-          },
-          "first_seen": "2026-08-28T21:17:15.048Z"
         }
       ],
       "title": "Related Projects"
@@ -613,7 +613,7 @@
             "open_issues": 2504,
             "owner": "AUTOMATIC1111",
             "repo": "stable-diffusion-webui",
-            "stars": 164799,
+            "stars": 164822,
             "topics": [
               "ai",
               "ai-art",
@@ -647,11 +647,11 @@
             "id": 589831718,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-04T12:40:36Z",
-            "open_issues": 4809,
+            "last_commit": "2026-09-05T12:20:20Z",
+            "open_issues": 4816,
             "owner": "Comfy-Org",
             "repo": "ComfyUI",
-            "stars": 131476,
+            "stars": 131600,
             "topics": [
               "ai",
               "comfy",
@@ -679,7 +679,7 @@
             "open_issues": 314,
             "owner": "lllyasviel",
             "repo": "Fooocus",
-            "stars": 52742,
+            "stars": 52810,
             "topics": []
           },
           "first_seen": "2026-08-28T21:17:15.048Z"
@@ -700,7 +700,7 @@
             "open_issues": 379,
             "owner": "invoke-ai",
             "repo": "InvokeAI",
-            "stars": 28130,
+            "stars": 28140,
             "topics": [
               "ai-art",
               "artificial-intelligence",
@@ -724,7 +724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T14:37:04.658Z",
+    "last_updated": "2026-09-05T13:36:35.227Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most complete, up-to-date comparison of AI image generation models — which model, via which API, at what price.",
@@ -736,7 +736,7 @@
       "open_issues": 4,
       "owner": "Anil-matcha",
       "repo": "awesome-ai-image-models",
-      "stars": 81,
+      "stars": 82,
       "topics": [
         "ai-image",
         "ai-image-generator",
