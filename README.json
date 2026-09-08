@@ -15,11 +15,11 @@
             "id": 638513786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-06T11:40:51Z",
-            "open_issues": 33,
+            "last_commit": "2026-09-08T14:41:06Z",
+            "open_issues": 35,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 28023,
+            "stars": 28102,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -61,7 +61,7 @@
             "open_issues": 3,
             "owner": "SamurAIGPT",
             "repo": "Generative-Media-Skills",
-            "stars": 4233,
+            "stars": 4247,
             "topics": [
               "agent-skills",
               "agent-tools",
@@ -142,7 +142,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-27T16:37:44Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "Anil-matcha",
             "repo": "awesome-ai-video-models",
             "stars": 190,
@@ -613,7 +613,7 @@
             "open_issues": 2505,
             "owner": "AUTOMATIC1111",
             "repo": "stable-diffusion-webui",
-            "stars": 164851,
+            "stars": 164857,
             "topics": [
               "ai",
               "ai-art",
@@ -647,11 +647,11 @@
             "id": 589831718,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-07T15:16:48Z",
-            "open_issues": 4817,
+            "last_commit": "2026-09-08T13:53:12Z",
+            "open_issues": 4820,
             "owner": "Comfy-Org",
             "repo": "ComfyUI",
-            "stars": 131916,
+            "stars": 132049,
             "topics": [
               "ai",
               "comfy",
@@ -679,7 +679,7 @@
             "open_issues": 314,
             "owner": "lllyasviel",
             "repo": "Fooocus",
-            "stars": 52906,
+            "stars": 52932,
             "topics": []
           },
           "first_seen": "2026-08-28T21:17:15.048Z"
@@ -697,10 +697,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-06T18:55:55Z",
-            "open_issues": 372,
+            "open_issues": 375,
             "owner": "invoke-ai",
             "repo": "InvokeAI",
-            "stars": 28163,
+            "stars": 28168,
             "topics": [
               "ai-art",
               "artificial-intelligence",
@@ -724,7 +724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T16:11:51.639Z",
+    "last_updated": "2026-09-08T14:49:10.877Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most complete, up-to-date comparison of AI image generation models — which model, via which API, at what price.",
