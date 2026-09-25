@@ -18,10 +18,10 @@ Unlike other lists that just dump links, this one answers the question developer
 
 ## Related Projects
 
-* [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 29,143 | 🐛 38 | 🌐 JavaScript | 📅 2026-09-24 — curated hub of open generative-media tools and pipelines
-* [Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) ⭐ 4,324 | 🐛 4 | 🌐 Shell | 📅 2026-09-08 — runtime for generative-media prompts
-* [ai-creator-academy](https://github.com/Anil-matcha/ai-creator-academy) ⭐ 2,038 | 🐛 0 | 📅 2026-08-21 — free curriculum teaching creators how to monetize the models compared in this list
-* [awesome-ai-video-models](https://github.com/Anil-matcha/awesome-ai-video-models) ⭐ 194 | 🐛 10 | 📅 2026-09-23 — sister list: compare AI **video** models by API, price & speed
+* [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 29,198 | 🐛 38 | 🌐 JavaScript | 📅 2026-09-25 — curated hub of open generative-media tools and pipelines
+* [Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) ⭐ 4,325 | 🐛 4 | 🌐 Shell | 📅 2026-09-08 — runtime for generative-media prompts
+* [ai-creator-academy](https://github.com/Anil-matcha/ai-creator-academy) ⭐ 2,042 | 🐛 0 | 📅 2026-08-21 — free curriculum teaching creators how to monetize the models compared in this list
+* [awesome-ai-video-models](https://github.com/Anil-matcha/awesome-ai-video-models) ⭐ 195 | 🐛 10 | 📅 2026-09-23 — sister list: compare AI **video** models by API, price & speed
 * [Flux-3-Dev-API](https://github.com/Anil-matcha/Flux-3-Dev-API) ⭐ 185 | 🐛 3 | 🌐 Python | 📅 2026-08-28 — Python wrapper for Black Forest Labs' FLUX 3 (Dev variant) — text-to-image, image-to-image, text-to-video, image-to-video
 * [awesome-flux-3-api-prompts](https://github.com/Anil-matcha/awesome-flux-3-api-prompts) ⭐ 146 | 🐛 2 | 📅 2026-08-20 — FLUX 3 API guide, prompts, and parameters
 * [ai-headshot-generator](https://github.com/SamurAIGPT/ai-headshot-generator) ⭐ 41 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-02 — AI headshots pipeline
@@ -130,10 +130,10 @@ Keep the same subject's identity locked across multiple generations, not just a 
 
 For local generation, training, and workflows:
 
-* **[AUTOMATIC1111 WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ⭐ 165,098 | 🐛 2,507 | 🌐 Python | 📅 2026-03-02** — the classic all-in-one UI
-* **[ComfyUI](https://github.com/comfyanonymous/ComfyUI) ⭐ 134,827 | 🐛 4,928 | 🌐 Python | 📅 2026-09-24** — node-based, most powerful for custom pipelines
-* **[Fooocus](https://github.com/lllyasviel/Fooocus) ⭐ 53,160 | 🐛 314 | 🌐 Python | 📅 2025-12-01** — simplest "just works" UI
-* **[InvokeAI](https://github.com/invoke-ai/InvokeAI) ⭐ 28,282 | 🐛 362 | 🌐 Python | 📅 2026-09-24** — polished pro/creative UI
+* **[AUTOMATIC1111 WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ⭐ 165,114 | 🐛 2,507 | 🌐 Python | 📅 2026-03-02** — the classic all-in-one UI
+* **[ComfyUI](https://github.com/comfyanonymous/ComfyUI) ⭐ 134,933 | 🐛 4,949 | 🌐 Python | 📅 2026-09-25** — node-based, most powerful for custom pipelines
+* **[Fooocus](https://github.com/lllyasviel/Fooocus) ⭐ 53,175 | 🐛 314 | 🌐 Python | 📅 2025-12-01** — simplest "just works" UI
+* **[InvokeAI](https://github.com/invoke-ai/InvokeAI) ⭐ 28,292 | 🐛 359 | 🌐 Python | 📅 2026-09-25** — polished pro/creative UI
 * **Training:** kohya\_ss, OneTrainer, SimpleTuner (LoRA / fine-tuning)
 
 ## Upscaling & restoration
@@ -178,8 +178,8 @@ PRs welcome. When adding a model, keep the table columns filled — **a row with
 
 ***
 
-*Maintained alongside [awesome-ai-video-models](https://github.com/Anil-matcha/awesome-ai-video-models) ⭐ 194 | 🐛 10 | 📅 2026-09-23 and [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 29,143 | 🐛 38 | 🌐 JavaScript | 📅 2026-09-24. Found it useful? ⭐ the repo.*
+*Maintained alongside [awesome-ai-video-models](https://github.com/Anil-matcha/awesome-ai-video-models) ⭐ 195 | 🐛 10 | 📅 2026-09-23 and [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 29,198 | 🐛 38 | 🌐 JavaScript | 📅 2026-09-25. Found it useful? ⭐ the repo.*
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
