@@ -19,7 +19,7 @@
             "open_issues": 38,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 29198,
+            "stars": 29236,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -61,7 +61,7 @@
             "open_issues": 4,
             "owner": "SamurAIGPT",
             "repo": "Generative-Media-Skills",
-            "stars": 4325,
+            "stars": 4328,
             "topics": [
               "agent-skills",
               "agent-tools",
@@ -142,7 +142,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-23T15:40:21Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "Anil-matcha",
             "repo": "awesome-ai-video-models",
             "stars": 195,
@@ -271,7 +271,7 @@
             "open_issues": 0,
             "owner": "SamurAIGPT",
             "repo": "ai-headshot-generator",
-            "stars": 41,
+            "stars": 40,
             "topics": [
               "ai-headshot-generator",
               "ai-headshots",
@@ -739,7 +739,7 @@
             "open_issues": 2507,
             "owner": "AUTOMATIC1111",
             "repo": "stable-diffusion-webui",
-            "stars": 165114,
+            "stars": 165134,
             "topics": [
               "ai",
               "ai-art",
@@ -768,16 +768,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+            "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
             "homepage": "https://www.comfy.org/",
             "id": 589831718,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-25T12:05:09Z",
-            "open_issues": 4949,
+            "last_commit": "2026-09-26T13:14:50Z",
+            "open_issues": 4959,
             "owner": "Comfy-Org",
             "repo": "ComfyUI",
-            "stars": 134933,
+            "stars": 135052,
             "topics": [
               "ai",
               "comfy",
@@ -802,10 +802,10 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2025-12-01T19:17:07Z",
-            "open_issues": 314,
+            "open_issues": 313,
             "owner": "lllyasviel",
             "repo": "Fooocus",
-            "stars": 53175,
+            "stars": 53186,
             "topics": []
           },
           "first_seen": "2026-08-28T21:17:15.048Z"
@@ -823,10 +823,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-25T12:44:59Z",
-            "open_issues": 359,
+            "open_issues": 358,
             "owner": "invoke-ai",
             "repo": "InvokeAI",
-            "stars": 28292,
+            "stars": 28298,
             "topics": [
               "ai-art",
               "artificial-intelligence",
@@ -850,7 +850,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T15:39:51.022Z",
+    "last_updated": "2026-09-26T14:48:39.102Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most complete, up-to-date comparison of AI image generation models — which model, via which API, at what price.",
