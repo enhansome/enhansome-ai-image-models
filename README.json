@@ -19,7 +19,7 @@
             "open_issues": 39,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 29506,
+            "stars": 29533,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -61,7 +61,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
-            "stars": 2049,
+            "stars": 2055,
             "topics": [
               "ai",
               "ai-agents",
@@ -103,7 +103,7 @@
             "open_issues": 12,
             "owner": "Anil-matcha",
             "repo": "awesome-ai-video-models",
-            "stars": 197,
+            "stars": 199,
             "topics": [
               "ai-video",
               "ai-video-generator",
@@ -187,7 +187,7 @@
             "open_issues": 2,
             "owner": "Anil-matcha",
             "repo": "awesome-flux-3-api-prompts",
-            "stars": 146,
+            "stars": 147,
             "topics": [
               "ai-image-generation",
               "ai-video",
@@ -310,10 +310,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-01T10:57:44Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "Awesome-GPT-Image-2-API-Prompts",
-            "stars": 21,
+            "stars": 22,
             "topics": [
               "ai-art",
               "ai-generated-art",
@@ -355,7 +355,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "awesome-uncensored-ai-image-models",
-            "stars": 6,
+            "stars": 7,
             "topics": [
               "ai",
               "ai-image",
@@ -397,7 +397,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "Grok-Imagine-Image-2-API",
-            "stars": 6,
+            "stars": 7,
             "topics": [
               "ai-api",
               "ai-image-generation",
@@ -419,6 +419,86 @@
               "text-to-image",
               "xai",
               "xai-api"
+            ]
+          },
+          "first_seen": "2026-08-28T21:17:15.048Z"
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-uncensored-ai-models",
+          "description": "Index of the LLM, image, and video filtering-focused model catalogs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Index of source-tracked low-filter, abliterated, and community-reported language, image, and video model catalogs",
+            "homepage": null,
+            "id": 1394685786,
+            "language": null,
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-29T08:09:03Z",
+            "open_issues": 0,
+            "owner": "Anil-matcha",
+            "repo": "awesome-uncensored-ai-models",
+            "stars": 4,
+            "topics": [
+              "ai-model-catalog",
+              "ai-models",
+              "awesome-list",
+              "generative-ai",
+              "image-generation",
+              "language-models",
+              "machine-learning",
+              "model-comparison",
+              "open-source-ai",
+              "open-weight-models",
+              "uncensored-ai",
+              "uncensored-image-models",
+              "uncensored-llm",
+              "uncensored-models",
+              "uncensored-video-models",
+              "video-generation"
+            ]
+          },
+          "first_seen": "2026-09-29T16:41:23.707Z"
+        },
+        {
+          "node_type": "item",
+          "title": "LoRA-Trainer-API",
+          "description": "compare Muapi LoRA training endpoints for custom image adapters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Compare Muapi LoRA trainer APIs with runnable examples",
+            "homepage": null,
+            "id": 1340699130,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-10-01T10:57:55Z",
+            "open_issues": 0,
+            "owner": "Anil-matcha",
+            "repo": "LoRA-Trainer-API",
+            "stars": 4,
+            "topics": [
+              "ai",
+              "api",
+              "deep-learning",
+              "fine-tuning",
+              "flux",
+              "flux-lora",
+              "generative-ai",
+              "image-generation",
+              "lora",
+              "lora-trainer",
+              "lora-training",
+              "machine-learning",
+              "model-training",
+              "muapi",
+              "open-source",
+              "python",
+              "qwen-image",
+              "rest-api",
+              "text-to-image",
+              "z-image"
             ]
           },
           "first_seen": "2026-08-28T21:17:15.048Z"
@@ -464,44 +544,6 @@
             ]
           },
           "first_seen": "2026-08-28T21:17:15.048Z"
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-uncensored-ai-models",
-          "description": "Index of the LLM, image, and video filtering-focused model catalogs",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Index of source-tracked low-filter, abliterated, and community-reported language, image, and video model catalogs",
-            "homepage": null,
-            "id": 1394685786,
-            "language": null,
-            "license": "NOASSERTION",
-            "last_commit": "2026-09-29T08:09:03Z",
-            "open_issues": 0,
-            "owner": "Anil-matcha",
-            "repo": "awesome-uncensored-ai-models",
-            "stars": 3,
-            "topics": [
-              "ai-model-catalog",
-              "ai-models",
-              "awesome-list",
-              "generative-ai",
-              "image-generation",
-              "language-models",
-              "machine-learning",
-              "model-comparison",
-              "open-source-ai",
-              "open-weight-models",
-              "uncensored-ai",
-              "uncensored-image-models",
-              "uncensored-llm",
-              "uncensored-models",
-              "uncensored-video-models",
-              "video-generation"
-            ]
-          },
-          "first_seen": "2026-09-29T16:41:23.707Z"
         },
         {
           "node_type": "item",
@@ -589,45 +631,24 @@
         },
         {
           "node_type": "item",
-          "title": "LoRA-Trainer-API",
-          "description": "compare Muapi LoRA training endpoints for custom image adapters.",
+          "title": "muapi-skills",
+          "description": "runtime for generative-media prompts",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Compare Muapi LoRA trainer APIs with runnable examples",
+            "description": "Agent skills for Muapi: one-command install for Claude Code, Cursor, Codex and Gemini CLI to discover, price and run 500+ image, video, audio and LLM models.",
             "homepage": null,
-            "id": 1340699130,
-            "language": null,
+            "id": 1399777082,
+            "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-01T10:57:55Z",
+            "last_commit": "2026-10-01T21:09:29Z",
             "open_issues": 0,
-            "owner": "Anil-matcha",
-            "repo": "LoRA-Trainer-API",
-            "stars": 3,
-            "topics": [
-              "ai",
-              "api",
-              "deep-learning",
-              "fine-tuning",
-              "flux",
-              "flux-lora",
-              "generative-ai",
-              "image-generation",
-              "lora",
-              "lora-trainer",
-              "lora-training",
-              "machine-learning",
-              "model-training",
-              "muapi",
-              "open-source",
-              "python",
-              "qwen-image",
-              "rest-api",
-              "text-to-image",
-              "z-image"
-            ]
+            "owner": "SamurAIGPT",
+            "repo": "muapi-skills",
+            "stars": 2,
+            "topics": []
           },
-          "first_seen": "2026-08-28T21:17:15.048Z"
+          "first_seen": "2026-10-01T17:11:00.684Z"
         },
         {
           "node_type": "item",
@@ -712,27 +733,6 @@
             ]
           },
           "first_seen": "2026-09-24T15:35:24.254Z"
-        },
-        {
-          "node_type": "item",
-          "title": "muapi-skills",
-          "description": "runtime for generative-media prompts",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Agent skills for Muapi: one-command install for Claude Code, Cursor, Codex and Gemini CLI to discover, price and run 500+ image, video, audio and LLM models.",
-            "homepage": null,
-            "id": 1399777082,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2026-10-01T11:01:10Z",
-            "open_issues": 0,
-            "owner": "SamurAIGPT",
-            "repo": "muapi-skills",
-            "stars": 0,
-            "topics": []
-          },
-          "first_seen": "2026-10-01T17:11:00.684Z"
         }
       ],
       "title": "Related Projects"
@@ -753,10 +753,10 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-03-02T07:00:53Z",
-            "open_issues": 2512,
+            "open_issues": 2511,
             "owner": "AUTOMATIC1111",
             "repo": "stable-diffusion-webui",
-            "stars": 165171,
+            "stars": 165182,
             "topics": [
               "ai",
               "ai-art",
@@ -790,11 +790,11 @@
             "id": 589831718,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-01T15:24:04Z",
-            "open_issues": 5021,
+            "last_commit": "2026-10-02T09:52:03Z",
+            "open_issues": 5027,
             "owner": "Comfy-Org",
             "repo": "ComfyUI",
-            "stars": 135757,
+            "stars": 135860,
             "topics": [
               "ai",
               "comfy",
@@ -822,7 +822,7 @@
             "open_issues": 314,
             "owner": "lllyasviel",
             "repo": "Fooocus",
-            "stars": 53252,
+            "stars": 53260,
             "topics": []
           },
           "first_seen": "2026-08-28T21:17:15.048Z"
@@ -837,13 +837,13 @@
             "description": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.",
             "homepage": "https://invoke-ai.github.io/InvokeAI/",
             "id": 525592995,
-            "language": "Python",
+            "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T02:56:09Z",
-            "open_issues": 364,
+            "last_commit": "2026-10-02T13:10:53Z",
+            "open_issues": 384,
             "owner": "invoke-ai",
             "repo": "InvokeAI",
-            "stars": 28321,
+            "stars": 28327,
             "topics": [
               "ai-art",
               "artificial-intelligence",
@@ -867,7 +867,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T17:11:00.684Z",
+    "last_updated": "2026-10-02T16:24:37.332Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most complete, up-to-date comparison of AI image generation models — which model, via which API, at what price.",
@@ -876,10 +876,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-10-01T10:57:33Z",
-      "open_issues": 4,
+      "open_issues": 5,
       "owner": "Anil-matcha",
       "repo": "awesome-ai-image-models",
-      "stars": 84,
+      "stars": 85,
       "topics": [
         "ai-image",
         "ai-image-generator",
