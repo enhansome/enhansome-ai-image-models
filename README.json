@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-03T09:39:02Z",
-            "open_issues": 39,
+            "open_issues": 40,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 29610,
+            "stars": 29677,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -61,7 +61,7 @@
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "ai-creator-academy",
-            "stars": 2064,
+            "stars": 2065,
             "topics": [
               "ai",
               "ai-agents",
@@ -145,7 +145,7 @@
             "open_issues": 3,
             "owner": "Anil-matcha",
             "repo": "Flux-3-Dev-API",
-            "stars": 185,
+            "stars": 184,
             "topics": [
               "ai-image",
               "ai-image-generation",
@@ -187,7 +187,7 @@
             "open_issues": 2,
             "owner": "Anil-matcha",
             "repo": "awesome-flux-3-api-prompts",
-            "stars": 147,
+            "stars": 146,
             "topics": [
               "ai-image-generation",
               "ai-video",
@@ -271,7 +271,7 @@
             "open_issues": 0,
             "owner": "SamurAIGPT",
             "repo": "nano-banana-generator",
-            "stars": 37,
+            "stars": 38,
             "topics": [
               "ai-art-generator",
               "ai-image-generator",
@@ -435,7 +435,7 @@
             "id": 1394685786,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-10-04T08:36:22Z",
+            "last_commit": "2026-10-05T18:57:43Z",
             "open_issues": 0,
             "owner": "Anil-matcha",
             "repo": "awesome-uncensored-ai-models",
@@ -645,7 +645,7 @@
             "open_issues": 0,
             "owner": "SamurAIGPT",
             "repo": "muapi-skills",
-            "stars": 2,
+            "stars": 3,
             "topics": []
           },
           "first_seen": "2026-10-01T17:11:00.684Z"
@@ -756,7 +756,7 @@
             "open_issues": 2511,
             "owner": "AUTOMATIC1111",
             "repo": "stable-diffusion-webui",
-            "stars": 165195,
+            "stars": 165197,
             "topics": [
               "ai",
               "ai-art",
@@ -790,11 +790,11 @@
             "id": 589831718,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-04T14:51:11Z",
-            "open_issues": 5053,
+            "last_commit": "2026-10-05T18:17:30Z",
+            "open_issues": 5069,
             "owner": "Comfy-Org",
             "repo": "ComfyUI",
-            "stars": 136071,
+            "stars": 136186,
             "topics": [
               "ai",
               "comfy",
@@ -822,7 +822,7 @@
             "open_issues": 314,
             "owner": "lllyasviel",
             "repo": "Fooocus",
-            "stars": 53297,
+            "stars": 53301,
             "topics": []
           },
           "first_seen": "2026-08-28T21:17:15.048Z"
@@ -839,11 +839,11 @@
             "id": 525592995,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-04T14:25:29Z",
-            "open_issues": 397,
+            "last_commit": "2026-10-05T17:09:47Z",
+            "open_issues": 406,
             "owner": "invoke-ai",
             "repo": "InvokeAI",
-            "stars": 28341,
+            "stars": 28345,
             "topics": [
               "ai-art",
               "artificial-intelligence",
@@ -867,7 +867,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T15:33:34.754Z",
+    "last_updated": "2026-10-05T19:27:53.962Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most complete, up-to-date comparison of AI image generation models — which model, via which API, at what price.",
@@ -879,7 +879,7 @@
       "open_issues": 5,
       "owner": "Anil-matcha",
       "repo": "awesome-ai-image-models",
-      "stars": 85,
+      "stars": 86,
       "topics": [
         "ai-image",
         "ai-image-generator",
