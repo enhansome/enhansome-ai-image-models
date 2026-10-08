@@ -18,13 +18,13 @@ Unlike other lists that just dump links, this one answers the question developer
 
 ## Related Projects
 
-* [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 29,788 | 🐛 37 | 🌐 JavaScript | 📅 2026-10-07 — curated hub of open generative-media tools and pipelines
-* [ai-creator-academy](https://github.com/Anil-matcha/ai-creator-academy) ⭐ 2,064 | 🐛 0 | 📅 2026-08-21 — free curriculum teaching creators how to monetize the models compared in this list
-* [awesome-ai-video-models](https://github.com/Anil-matcha/awesome-ai-video-models) ⭐ 200 | 🐛 12 | 📅 2026-09-29 — sister list: compare AI **video** models by API, price & speed
+* [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 29,878 | 🐛 37 | 🌐 JavaScript | 📅 2026-10-07 — curated hub of open generative-media tools and pipelines
+* [ai-creator-academy](https://github.com/Anil-matcha/ai-creator-academy) ⭐ 2,069 | 🐛 0 | 📅 2026-08-21 — free curriculum teaching creators how to monetize the models compared in this list
+* [awesome-ai-video-models](https://github.com/Anil-matcha/awesome-ai-video-models) ⭐ 200 | 🐛 13 | 📅 2026-09-29 — sister list: compare AI **video** models by API, price & speed
 * [Flux-3-Dev-API](https://github.com/Anil-matcha/Flux-3-Dev-API) ⭐ 184 | 🐛 3 | 🌐 Python | 📅 2026-08-28 — Python wrapper for Black Forest Labs' FLUX 3 (Dev variant) — text-to-image, image-to-image, text-to-video, image-to-video
 * [awesome-flux-3-api-prompts](https://github.com/Anil-matcha/awesome-flux-3-api-prompts) ⭐ 147 | 🐛 2 | 📅 2026-08-20 — FLUX 3 API guide, prompts, and parameters
 * [Nano-Banana-2.1-API](https://github.com/Anil-matcha/Nano-Banana-2.1-API) ⭐ 48 | 🐛 0 | 📅 2026-10-06 — Nano Banana 2.1 text-to-image and image-edit API guide with Python, JavaScript, and curl examples through MuAPI.
-* [ai-headshot-generator](https://github.com/SamurAIGPT/ai-headshot-generator) ⭐ 42 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-02 — AI headshots pipeline
+* [ai-headshot-generator](https://github.com/SamurAIGPT/ai-headshot-generator) ⭐ 42 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-02 — AI headshots pipeline
 * [nano-banana-generator](https://github.com/SamurAIGPT/nano-banana-generator) ⭐ 38 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-06 — generate with Google Nano Banana
 * [Awesome-GPT-Image-2-API-Prompts](https://github.com/Anil-matcha/Awesome-GPT-Image-2-API-Prompts) ⭐ 23 | 🐛 1 | 📅 2026-10-01 — prompt library for GPT Image
 * [awesome-uncensored-ai-image-models](https://github.com/Anil-matcha/awesome-uncensored-ai-image-models) ⭐ 8 | 🐛 0 | 📅 2026-10-01 — Filtering-, access-, and licensing-focused companion catalog for local and hosted image model variants
@@ -35,7 +35,7 @@ Unlike other lists that just dump links, this one answers the question developer
 * [Image-Enhancement-API](https://github.com/Anil-matcha/Image-Enhancement-API) ⭐ 4 | 🐛 0 | 📅 2026-08-20 — compare Muapi image upscaling and background-removal APIs.
 * [awesome-gemini-4-pro](https://github.com/Anil-matcha/awesome-gemini-4-pro) ⭐ 3 | 🐛 0 | 📅 2026-09-18 — frontier Gemini use cases covering structured visual generation and multimodal workflows.
 * [muapi-skills](https://github.com/SamurAIGPT/muapi-skills) ⭐ 3 | 🐛 0 | 🌐 Shell | 📅 2026-10-01 — runtime for generative-media prompts
-* [Nano-Banana-3-API](https://github.com/Anil-matcha/Nano-Banana-3-API) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-09-23 — Python client and image-generation examples for the Nano Banana API through MuAPI.
+* [Nano-Banana-3-API](https://github.com/Anil-matcha/Nano-Banana-3-API) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-09-23 — Python client and image-generation examples for the Nano Banana API through MuAPI.
 * [GPT-Image-3-API](https://github.com/Anil-matcha/GPT-Image-3-API) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-09-23 — Python client and image-generation examples for GPT Image through MuAPI.
 * [MuAPI AI Image API](https://muapi.ai/ai-image-api) — the ranked leaderboard from the video above, live and ready to call
 * [MuAPI image playground](https://muapi.ai/playground) — Run the image models compared in this list through one API.
@@ -132,10 +132,10 @@ Keep the same subject's identity locked across multiple generations, not just a 
 
 For local generation, training, and workflows:
 
-* **[AUTOMATIC1111 WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ⭐ 165,209 | 🐛 2,510 | 🌐 Python | 📅 2026-03-02** — the classic all-in-one UI
-* **[ComfyUI](https://github.com/comfyanonymous/ComfyUI) ⭐ 136,457 | 🐛 5,081 | 🌐 Python | 📅 2026-10-07** — node-based, most powerful for custom pipelines
-* **[Fooocus](https://github.com/lllyasviel/Fooocus) ⭐ 53,316 | 🐛 315 | 🌐 Python | 📅 2025-12-01** — simplest "just works" UI
-* **[InvokeAI](https://github.com/invoke-ai/InvokeAI) ⭐ 28,422 | 🐛 357 | 🌐 TypeScript | 📅 2026-10-07** — polished pro/creative UI
+* **[AUTOMATIC1111 WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ⭐ 165,026 | 🐛 2,510 | 🌐 Python | 📅 2026-03-02** — the classic all-in-one UI
+* **[ComfyUI](https://github.com/comfyanonymous/ComfyUI) ⭐ 136,431 | 🐛 5,081 | 🌐 Python | 📅 2026-10-08** — node-based, most powerful for custom pipelines
+* **[Fooocus](https://github.com/lllyasviel/Fooocus) ⭐ 53,333 | 🐛 315 | 🌐 Python | 📅 2025-12-01** — simplest "just works" UI
+* **[InvokeAI](https://github.com/invoke-ai/InvokeAI) ⭐ 28,461 | 🐛 330 | 🌐 TypeScript | 📅 2026-10-08** — polished pro/creative UI
 * **Training:** kohya\_ss, OneTrainer, SimpleTuner (LoRA / fine-tuning)
 
 ## Upscaling & restoration
@@ -180,8 +180,8 @@ PRs welcome. When adding a model, keep the table columns filled — **a row with
 
 ***
 
-*Maintained alongside [awesome-ai-video-models](https://github.com/Anil-matcha/awesome-ai-video-models) ⭐ 200 | 🐛 12 | 📅 2026-09-29 and [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 29,788 | 🐛 37 | 🌐 JavaScript | 📅 2026-10-07. Found it useful? ⭐ the repo.*
+*Maintained alongside [awesome-ai-video-models](https://github.com/Anil-matcha/awesome-ai-video-models) ⭐ 200 | 🐛 13 | 📅 2026-09-29 and [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 29,878 | 🐛 37 | 🌐 JavaScript | 📅 2026-10-07. Found it useful? ⭐ the repo.*
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
