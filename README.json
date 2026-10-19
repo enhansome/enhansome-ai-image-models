@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-15T09:55:05Z",
-            "open_issues": 42,
+            "open_issues": 45,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 30738,
+            "stars": 30860,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -99,7 +99,7 @@
             "id": 819971354,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-28T07:21:04Z",
+            "last_commit": "2026-10-19T15:40:28Z",
             "open_issues": 3,
             "owner": "Anil-matcha",
             "repo": "Flux-3-Dev-API",
@@ -141,7 +141,7 @@
             "id": 798330044,
             "language": null,
             "license": null,
-            "last_commit": "2026-08-20T08:13:28Z",
+            "last_commit": "2026-10-19T15:40:28Z",
             "open_issues": 2,
             "owner": "Anil-matcha",
             "repo": "awesome-flux-3-api-prompts",
@@ -313,7 +313,7 @@
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "Awesome-GPT-Image-2-API-Prompts",
-            "stars": 24,
+            "stars": 25,
             "topics": [
               "ai-art",
               "ai-generated-art",
@@ -775,6 +775,48 @@
             ]
           },
           "first_seen": "2026-09-24T15:35:24.254Z"
+        },
+        {
+          "node_type": "item",
+          "title": "FLUX Klein API guide and examples",
+          "description": "compare FLUX 3 Klein image generation and editing routes, with current inputs and per-image pricing on Muapi's FLUX Klein page.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "FLUX 3 Klein API guide, pricing, and Python/JavaScript examples through Muapi",
+            "homepage": null,
+            "id": 1425829861,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-10-19T15:38:07Z",
+            "open_issues": 0,
+            "owner": "Anil-matcha",
+            "repo": "Flux-Klein-API",
+            "stars": 0,
+            "topics": [
+              "ai-image-api",
+              "api-examples",
+              "black-forest-labs",
+              "curl",
+              "flux-3-api",
+              "flux-3-klein",
+              "flux-3-klein-api",
+              "flux-klein",
+              "flux-klein-api",
+              "generative-ai",
+              "image-api",
+              "image-editing-api",
+              "image-generation-api",
+              "image-to-image",
+              "javascript",
+              "klein",
+              "muapi",
+              "python",
+              "rest-api",
+              "text-to-image"
+            ]
+          },
+          "first_seen": "2026-10-19T17:15:03.258Z"
         }
       ],
       "title": "Related Projects"
@@ -798,7 +840,7 @@
             "open_issues": 2511,
             "owner": "AUTOMATIC1111",
             "repo": "stable-diffusion-webui",
-            "stars": 165074,
+            "stars": 165073,
             "topics": [
               "ai",
               "ai-art",
@@ -832,11 +874,11 @@
             "id": 589831718,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-18T13:32:33Z",
-            "open_issues": 5246,
+            "last_commit": "2026-10-19T10:54:06Z",
+            "open_issues": 5273,
             "owner": "Comfy-Org",
             "repo": "ComfyUI",
-            "stars": 138250,
+            "stars": 139444,
             "topics": [
               "ai",
               "comfy",
@@ -864,7 +906,7 @@
             "open_issues": 315,
             "owner": "lllyasviel",
             "repo": "Fooocus",
-            "stars": 53584,
+            "stars": 53609,
             "topics": []
           },
           "first_seen": "2026-08-28T21:17:15.048Z"
@@ -881,11 +923,11 @@
             "id": 525592995,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-18T11:38:46Z",
-            "open_issues": 439,
+            "last_commit": "2026-10-19T10:28:17Z",
+            "open_issues": 369,
             "owner": "invoke-ai",
             "repo": "InvokeAI",
-            "stars": 28726,
+            "stars": 28763,
             "topics": [
               "ai-art",
               "artificial-intelligence",
@@ -909,7 +951,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T14:12:12.608Z",
+    "last_updated": "2026-10-19T17:15:03.258Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most complete, up-to-date comparison of AI image generation models — which model, via which API, at what price.",
@@ -917,7 +959,7 @@
       "id": 807671842,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-10-06T18:05:07Z",
+      "last_commit": "2026-10-19T15:40:28Z",
       "open_issues": 5,
       "owner": "Anil-matcha",
       "repo": "awesome-ai-image-models",
@@ -945,7 +987,7 @@
         "text-to-image"
       ]
     },
-    "original_repository_sha": "2e8be5a3ec9deceee6ca667e4c1df8379975e1ce",
+    "original_repository_sha": "dc77ddfeaaa2332919a8860590faed9b724b7ee5",
     "enhanced_repository": "enhansome/enhansome-ai-image-models",
     "enhanced_repository_description": null,
     "title": "Awesome AI Image Models with stars"
