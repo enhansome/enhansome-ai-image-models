@@ -18,15 +18,15 @@ Unlike other lists that just dump links, this one answers the question developer
 
 ## Related Projects
 
-* [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 31,646 | 🐛 43 | 🌐 JavaScript | 📅 2026-10-24 — curated hub of open generative-media tools and pipelines
-* [awesome-ai-video-models](https://github.com/Anil-matcha/awesome-ai-video-models) ⭐ 206 | 🐛 1 | 📅 2026-09-29 — sister list: compare AI **video** models by API, price & speed
+* [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 31,725 | 🐛 44 | 🌐 JavaScript | 📅 2026-10-24 — curated hub of open generative-media tools and pipelines
+* [awesome-ai-video-models](https://github.com/Anil-matcha/awesome-ai-video-models) ⭐ 207 | 🐛 1 | 📅 2026-09-29 — sister list: compare AI **video** models by API, price & speed
 * [Flux-3-Dev-API](https://github.com/Anil-matcha/Flux-3-Dev-API) ⭐ 185 | 🐛 4 | 🌐 Python | 📅 2026-10-19 — Python wrapper for Black Forest Labs' FLUX 3 (Dev variant) — text-to-image, image-to-image, text-to-video, image-to-video
 * [awesome-flux-3-api-prompts](https://github.com/Anil-matcha/awesome-flux-3-api-prompts) ⭐ 147 | 🐛 2 | 📅 2026-10-19 — FLUX 3 API guide, prompts, and parameters
 * [Nano-Banana-2.1-API](https://github.com/Anil-matcha/Nano-Banana-2.1-API) ⭐ 51 | 🐛 0 | 📅 2026-10-06 — Nano Banana 2.1 text-to-image and image-edit API guide with Python, JavaScript, and curl examples through MuAPI.
 * [ai-headshot-generator](https://github.com/SamurAIGPT/ai-headshot-generator) ⭐ 44 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-22 — AI headshots pipeline
 * [nano-banana-generator](https://github.com/SamurAIGPT/nano-banana-generator) ⭐ 43 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-22 — generate with Google Nano Banana
 * [Awesome-GPT-Image-2-API-Prompts](https://github.com/Anil-matcha/Awesome-GPT-Image-2-API-Prompts) ⭐ 25 | 🐛 1 | 📅 2026-10-01 — prompt library for GPT Image
-* [awesome-uncensored-ai-image-models](https://github.com/Anil-matcha/awesome-uncensored-ai-image-models) ⭐ 11 | 🐛 0 | 📅 2026-10-01 — Filtering-, access-, and licensing-focused companion catalog for local and hosted image model variants
+* [awesome-uncensored-ai-image-models](https://github.com/Anil-matcha/awesome-uncensored-ai-image-models) ⭐ 13 | 🐛 0 | 📅 2026-10-01 — Filtering-, access-, and licensing-focused companion catalog for local and hosted image model variants
 * [awesome-uncensored-ai-models](https://github.com/Anil-matcha/awesome-uncensored-ai-models) ⭐ 8 | 🐛 0 | 📅 2026-10-05 — Index of the LLM, image, and video filtering-focused model catalogs
 * [muapi-skills](https://github.com/SamurAIGPT/muapi-skills) ⭐ 8 | 🐛 0 | 🌐 Shell | 📅 2026-10-01 — runtime for generative-media prompts
 * [Grok-Imagine-Image-2-API](https://github.com/Anil-matcha/Grok-Imagine-Image-2-API) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-10-01 — Python SDK and MCP server for Grok Imagine Image 2.0 text-to-image and multi-reference editing through MuAPI
@@ -89,7 +89,7 @@ Unlike other lists that just dump links, this one answers the question developer
 | **Seedream 5.0**   | ByteDance | \~$0.0325     | Grouped with Wan/Qwen in "open pipeline, no surprise censorship" comparisons                      |
 | **Grok Imagine**   | xAI       | \~$0.05       | Marketed with a looser content policy than mainstream Western closed models                       |
 
-See the companion [awesome-uncensored-ai-image-models](https://github.com/Anil-matcha/awesome-uncensored-ai-image-models) ⭐ 11 | 🐛 0 | 📅 2026-10-01 for a deeper filtering/licensing-focused catalog.
+See the companion [awesome-uncensored-ai-image-models](https://github.com/Anil-matcha/awesome-uncensored-ai-image-models) ⭐ 13 | 🐛 0 | 📅 2026-10-01 for a deeper filtering/licensing-focused catalog.
 
 ## Open-source models (self-host or API)
 
@@ -133,10 +133,10 @@ Keep the same subject's identity locked across multiple generations, not just a 
 
 For local generation, training, and workflows:
 
-* **[AUTOMATIC1111 WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ⭐ 165,162 | 🐛 2,510 | 🌐 Python | 📅 2026-03-02** — the classic all-in-one UI
-* **[ComfyUI](https://github.com/comfyanonymous/ComfyUI) ⭐ 143,505 | 🐛 5,369 | 🌐 Python | 📅 2026-10-27** — node-based, most powerful for custom pipelines
-* **[Fooocus](https://github.com/lllyasviel/Fooocus) ⭐ 53,699 | 🐛 314 | 🌐 Python | 📅 2025-12-01** — simplest "just works" UI
-* **[InvokeAI](https://github.com/invoke-ai/InvokeAI) ⭐ 28,886 | 🐛 406 | 🌐 TypeScript | 📅 2026-10-27** — polished pro/creative UI
+* **[AUTOMATIC1111 WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ⭐ 165,174 | 🐛 2,510 | 🌐 Python | 📅 2026-03-02** — the classic all-in-one UI
+* **[ComfyUI](https://github.com/comfyanonymous/ComfyUI) ⭐ 143,743 | 🐛 5,379 | 🌐 Python | 📅 2026-10-28** — node-based, most powerful for custom pipelines
+* **[Fooocus](https://github.com/lllyasviel/Fooocus) ⭐ 53,714 | 🐛 314 | 🌐 Python | 📅 2025-12-01** — simplest "just works" UI
+* **[InvokeAI](https://github.com/invoke-ai/InvokeAI) ⭐ 28,899 | 🐛 406 | 🌐 TypeScript | 📅 2026-10-28** — polished pro/creative UI
 * **Training:** kohya\_ss, OneTrainer, SimpleTuner (LoRA / fine-tuning)
 
 ## Upscaling & restoration
@@ -181,8 +181,8 @@ PRs welcome. When adding a model, keep the table columns filled — **a row with
 
 ***
 
-*Maintained alongside [awesome-ai-video-models](https://github.com/Anil-matcha/awesome-ai-video-models) ⭐ 206 | 🐛 1 | 📅 2026-09-29 and [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 31,646 | 🐛 43 | 🌐 JavaScript | 📅 2026-10-24. Found it useful? ⭐ the repo.*
+*Maintained alongside [awesome-ai-video-models](https://github.com/Anil-matcha/awesome-ai-video-models) ⭐ 207 | 🐛 1 | 📅 2026-09-29 and [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 31,725 | 🐛 44 | 🌐 JavaScript | 📅 2026-10-24. Found it useful? ⭐ the repo.*
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
