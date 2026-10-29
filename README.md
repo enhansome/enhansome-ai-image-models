@@ -18,24 +18,24 @@ Unlike other lists that just dump links, this one answers the question developer
 
 ## Related Projects
 
-* [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 31,725 | 🐛 44 | 🌐 JavaScript | 📅 2026-10-24 — curated hub of open generative-media tools and pipelines
+* [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 31,797 | 🐛 45 | 🌐 JavaScript | 📅 2026-10-29 — curated hub of open generative-media tools and pipelines
 * [awesome-ai-video-models](https://github.com/Anil-matcha/awesome-ai-video-models) ⭐ 207 | 🐛 1 | 📅 2026-09-29 — sister list: compare AI **video** models by API, price & speed
 * [Flux-3-Dev-API](https://github.com/Anil-matcha/Flux-3-Dev-API) ⭐ 185 | 🐛 4 | 🌐 Python | 📅 2026-10-19 — Python wrapper for Black Forest Labs' FLUX 3 (Dev variant) — text-to-image, image-to-image, text-to-video, image-to-video
 * [awesome-flux-3-api-prompts](https://github.com/Anil-matcha/awesome-flux-3-api-prompts) ⭐ 147 | 🐛 2 | 📅 2026-10-19 — FLUX 3 API guide, prompts, and parameters
 * [Nano-Banana-2.1-API](https://github.com/Anil-matcha/Nano-Banana-2.1-API) ⭐ 51 | 🐛 0 | 📅 2026-10-06 — Nano Banana 2.1 text-to-image and image-edit API guide with Python, JavaScript, and curl examples through MuAPI.
+* [nano-banana-generator](https://github.com/SamurAIGPT/nano-banana-generator) ⭐ 44 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-22 — generate with Google Nano Banana
 * [ai-headshot-generator](https://github.com/SamurAIGPT/ai-headshot-generator) ⭐ 44 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-22 — AI headshots pipeline
-* [nano-banana-generator](https://github.com/SamurAIGPT/nano-banana-generator) ⭐ 43 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-22 — generate with Google Nano Banana
 * [Awesome-GPT-Image-2-API-Prompts](https://github.com/Anil-matcha/Awesome-GPT-Image-2-API-Prompts) ⭐ 25 | 🐛 1 | 📅 2026-10-01 — prompt library for GPT Image
 * [awesome-uncensored-ai-image-models](https://github.com/Anil-matcha/awesome-uncensored-ai-image-models) ⭐ 13 | 🐛 0 | 📅 2026-10-01 — Filtering-, access-, and licensing-focused companion catalog for local and hosted image model variants
 * [awesome-uncensored-ai-models](https://github.com/Anil-matcha/awesome-uncensored-ai-models) ⭐ 8 | 🐛 0 | 📅 2026-10-05 — Index of the LLM, image, and video filtering-focused model catalogs
 * [muapi-skills](https://github.com/SamurAIGPT/muapi-skills) ⭐ 8 | 🐛 0 | 🌐 Shell | 📅 2026-10-01 — runtime for generative-media prompts
+* [ai-creator-academy](https://github.com/Anil-matcha/ai-creator-academy) ⭐ 7 | 🐛 1 | 📅 2026-10-15 — free curriculum teaching creators how to monetize the models compared in this list
 * [Grok-Imagine-Image-2-API](https://github.com/Anil-matcha/Grok-Imagine-Image-2-API) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-10-01 — Python SDK and MCP server for Grok Imagine Image 2.0 text-to-image and multi-reference editing through MuAPI
-* [ai-creator-academy](https://github.com/Anil-matcha/ai-creator-academy) ⭐ 6 | 🐛 1 | 📅 2026-10-15 — free curriculum teaching creators how to monetize the models compared in this list
 * [midjourney-api](https://github.com/Anil-matcha/midjourney-api) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-10-01 — Python SDK for Midjourney V7, V8, and Niji generation through MuAPI.
 * [LoRA-Trainer-API](https://github.com/Anil-matcha/LoRA-Trainer-API) ⭐ 4 | 🐛 0 | 📅 2026-10-01 — compare Muapi LoRA training endpoints for custom image adapters.
 * [Image-Enhancement-API](https://github.com/Anil-matcha/Image-Enhancement-API) ⭐ 4 | 🐛 0 | 📅 2026-08-20 — compare Muapi image upscaling and background-removal APIs.
 * [FLUX Klein API guide and examples](https://github.com/Anil-matcha/Flux-Klein-API) ⭐ 3 | 🐛 0 | 📅 2026-10-19 — compare FLUX 3 Klein image generation and editing routes, with current inputs and per-image pricing on [Muapi's FLUX Klein page](https://muapi.ai/flux-klein).
-* [awesome-gemini-4-pro](https://github.com/Anil-matcha/awesome-gemini-4-pro) ⭐ 3 | 🐛 0 | 📅 2026-09-18 — frontier Gemini use cases covering structured visual generation and multimodal workflows.
+* [awesome-gemini-4-pro](https://github.com/Anil-matcha/awesome-gemini-4-pro) ⭐ 3 | 🐛 0 | 📅 2026-10-28 — frontier Gemini use cases covering structured visual generation and multimodal workflows.
 * [Nano-Banana-3-API](https://github.com/Anil-matcha/Nano-Banana-3-API) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-09-23 — Python client and image-generation examples for the Nano Banana API through MuAPI.
 * [GPT-Image-3-API](https://github.com/Anil-matcha/GPT-Image-3-API) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-09-23 — Python client and image-generation examples for GPT Image through MuAPI.
 * [MuAPI AI Image API](https://muapi.ai/ai-image-api) — the ranked leaderboard from the video above, live and ready to call
@@ -133,10 +133,10 @@ Keep the same subject's identity locked across multiple generations, not just a 
 
 For local generation, training, and workflows:
 
-* **[AUTOMATIC1111 WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ⭐ 165,174 | 🐛 2,510 | 🌐 Python | 📅 2026-03-02** — the classic all-in-one UI
-* **[ComfyUI](https://github.com/comfyanonymous/ComfyUI) ⭐ 143,743 | 🐛 5,379 | 🌐 Python | 📅 2026-10-28** — node-based, most powerful for custom pipelines
-* **[Fooocus](https://github.com/lllyasviel/Fooocus) ⭐ 53,714 | 🐛 314 | 🌐 Python | 📅 2025-12-01** — simplest "just works" UI
-* **[InvokeAI](https://github.com/invoke-ai/InvokeAI) ⭐ 28,899 | 🐛 406 | 🌐 TypeScript | 📅 2026-10-28** — polished pro/creative UI
+* **[AUTOMATIC1111 WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ⭐ 165,177 | 🐛 2,510 | 🌐 Python | 📅 2026-03-02** — the classic all-in-one UI
+* **[ComfyUI](https://github.com/comfyanonymous/ComfyUI) ⭐ 143,952 | 🐛 5,381 | 🌐 Python | 📅 2026-10-29** — node-based, most powerful for custom pipelines
+* **[Fooocus](https://github.com/lllyasviel/Fooocus) ⭐ 53,728 | 🐛 315 | 🌐 Python | 📅 2025-12-01** — simplest "just works" UI
+* **[InvokeAI](https://github.com/invoke-ai/InvokeAI) ⭐ 28,913 | 🐛 380 | 🌐 TypeScript | 📅 2026-10-29** — polished pro/creative UI
 * **Training:** kohya\_ss, OneTrainer, SimpleTuner (LoRA / fine-tuning)
 
 ## Upscaling & restoration
@@ -181,8 +181,8 @@ PRs welcome. When adding a model, keep the table columns filled — **a row with
 
 ***
 
-*Maintained alongside [awesome-ai-video-models](https://github.com/Anil-matcha/awesome-ai-video-models) ⭐ 207 | 🐛 1 | 📅 2026-09-29 and [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 31,725 | 🐛 44 | 🌐 JavaScript | 📅 2026-10-24. Found it useful? ⭐ the repo.*
+*Maintained alongside [awesome-ai-video-models](https://github.com/Anil-matcha/awesome-ai-video-models) ⭐ 207 | 🐛 1 | 📅 2026-09-29 and [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 31,797 | 🐛 45 | 🌐 JavaScript | 📅 2026-10-29. Found it useful? ⭐ the repo.*
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
