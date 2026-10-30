@@ -19,7 +19,7 @@
             "open_issues": 45,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 31797,
+            "stars": 31866,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -383,6 +383,48 @@
         },
         {
           "node_type": "item",
+          "title": "ai-creator-academy",
+          "description": "free curriculum teaching creators how to monetize the models compared in this list",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Free, open-source curriculum for making money with generative AI image, video, and audio — for creators and agencies.",
+            "homepage": null,
+            "id": 1408607431,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-10-15T03:57:04Z",
+            "open_issues": 1,
+            "owner": "Anil-matcha",
+            "repo": "ai-creator-academy",
+            "stars": 10,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-audio",
+              "ai-avatars",
+              "ai-filmmaking",
+              "ai-image",
+              "ai-influencer",
+              "ai-tools",
+              "ai-video",
+              "content-creation",
+              "creator-economy",
+              "curriculum",
+              "faceless-youtube",
+              "freelancing",
+              "generative-ai",
+              "make-money-online",
+              "open-source",
+              "print-on-demand",
+              "ugc-ads",
+              "vibe-coding"
+            ]
+          },
+          "first_seen": "2026-10-15T15:24:14.284Z"
+        },
+        {
+          "node_type": "item",
           "title": "awesome-uncensored-ai-models",
           "description": "Index of the LLM, image, and video filtering-focused model catalogs",
           "children": [],
@@ -439,48 +481,6 @@
             "topics": []
           },
           "first_seen": "2026-10-01T17:11:00.684Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ai-creator-academy",
-          "description": "free curriculum teaching creators how to monetize the models compared in this list",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Free, open-source curriculum for making money with generative AI image, video, and audio — for creators and agencies.",
-            "homepage": null,
-            "id": 1408607431,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-10-15T03:57:04Z",
-            "open_issues": 1,
-            "owner": "Anil-matcha",
-            "repo": "ai-creator-academy",
-            "stars": 7,
-            "topics": [
-              "ai",
-              "ai-agents",
-              "ai-audio",
-              "ai-avatars",
-              "ai-filmmaking",
-              "ai-image",
-              "ai-influencer",
-              "ai-tools",
-              "ai-video",
-              "content-creation",
-              "creator-economy",
-              "curriculum",
-              "faceless-youtube",
-              "freelancing",
-              "generative-ai",
-              "make-money-online",
-              "open-source",
-              "print-on-demand",
-              "ugc-ads",
-              "vibe-coding"
-            ]
-          },
-          "first_seen": "2026-10-15T15:24:14.284Z"
         },
         {
           "node_type": "item",
@@ -840,7 +840,7 @@
             "open_issues": 2510,
             "owner": "AUTOMATIC1111",
             "repo": "stable-diffusion-webui",
-            "stars": 165177,
+            "stars": 165184,
             "topics": [
               "ai",
               "ai-art",
@@ -874,11 +874,11 @@
             "id": 589831718,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-29T17:01:49Z",
-            "open_issues": 5381,
+            "last_commit": "2026-10-30T16:03:02Z",
+            "open_issues": 5393,
             "owner": "Comfy-Org",
             "repo": "ComfyUI",
-            "stars": 143952,
+            "stars": 144158,
             "topics": [
               "ai",
               "comfy",
@@ -906,7 +906,7 @@
             "open_issues": 315,
             "owner": "lllyasviel",
             "repo": "Fooocus",
-            "stars": 53728,
+            "stars": 53753,
             "topics": []
           },
           "first_seen": "2026-08-28T21:17:15.048Z"
@@ -923,11 +923,11 @@
             "id": 525592995,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-29T16:49:45Z",
-            "open_issues": 380,
+            "last_commit": "2026-10-30T11:25:50Z",
+            "open_issues": 360,
             "owner": "invoke-ai",
             "repo": "InvokeAI",
-            "stars": 28913,
+            "stars": 28925,
             "topics": [
               "ai-art",
               "artificial-intelligence",
@@ -951,7 +951,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T17:11:20.856Z",
+    "last_updated": "2026-10-30T16:51:49.875Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most complete, up-to-date comparison of AI image generation models — which model, via which API, at what price.",
