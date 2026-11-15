@@ -10,16 +10,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Uncensored Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+            "description": "Uncensored Open-source alternative to AI video platforms — Free AI image & video generation studio with 800+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
             "homepage": "https://muapi.ai/open-generative-ai?utm_source=github&utm_medium=about&utm_campaign=open-generative-ai",
             "id": 638513786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-14T09:06:14Z",
-            "open_issues": 52,
+            "last_commit": "2026-11-15T11:19:04Z",
+            "open_issues": 54,
             "owner": "Anil-matcha",
             "repo": "Open-Generative-AI",
-            "stars": 34649,
+            "stars": 34807,
             "topics": [
               "ai-art-generator",
               "ai-image-generation",
@@ -397,7 +397,7 @@
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "awesome-uncensored-ai-image-models",
-            "stars": 18,
+            "stars": 19,
             "topics": [
               "ai",
               "ai-image",
@@ -840,7 +840,7 @@
             "open_issues": 2512,
             "owner": "AUTOMATIC1111",
             "repo": "stable-diffusion-webui",
-            "stars": 165312,
+            "stars": 165318,
             "topics": [
               "ai",
               "ai-art",
@@ -874,11 +874,11 @@
             "id": 589831718,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-14T15:23:12Z",
+            "last_commit": "2026-11-15T17:00:40Z",
             "open_issues": 5542,
             "owner": "Comfy-Org",
             "repo": "ComfyUI",
-            "stars": 146799,
+            "stars": 146992,
             "topics": [
               "ai",
               "comfy",
@@ -906,7 +906,7 @@
             "open_issues": 316,
             "owner": "lllyasviel",
             "repo": "Fooocus",
-            "stars": 53929,
+            "stars": 53932,
             "topics": []
           },
           "first_seen": "2026-08-28T21:17:15.048Z"
@@ -923,11 +923,11 @@
             "id": 525592995,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T13:57:23Z",
-            "open_issues": 333,
+            "last_commit": "2026-11-15T16:02:18Z",
+            "open_issues": 329,
             "owner": "invoke-ai",
             "repo": "InvokeAI",
-            "stars": 29090,
+            "stars": 29097,
             "topics": [
               "ai-art",
               "artificial-intelligence",
@@ -951,7 +951,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T16:46:59.037Z",
+    "last_updated": "2026-11-15T17:29:45.836Z",
     "original_repository_info": {
       "archived": false,
       "description": "The most complete, up-to-date comparison of AI image generation models — which model, via which API, at what price.",
